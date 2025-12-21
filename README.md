@@ -14,5 +14,11 @@ Actually, the program consist of a monolithic bloc with all the stuff needed, if
 
 PCB: https://oshwlab.com/marouane0900/trottinette-ecran-can-v1-2r-tja-0603
 
-If you want, I actually have few board wihout display for sale that you can find here: https://www.ebay.fr/itm/257270297207
-And here's the enclosure: https://cults3d.com/en/3d-model/gadget/vesc-can-oled-display-enclosure
+If you want, I actually have few board wihout display for sale that you can find in the next link below.
+
+Soldered main board: [https://www.ebay.fr/itm/257270297207](https://www.ebay.fr/itm/257270612879)
+
+OLED display: [https://fr.aliexpress.com/item/33044134713.html](https://aliexpress.com/item/33044134713.html)
+
+Cults3D repository for enclosure: [https://cults3d.com/en/3d-model/gadget/vesc-can-oled-display-enclosure](https://cults3d.com/en/3d-model/gadget/vesc-can-oled-display-enclosure)
+
