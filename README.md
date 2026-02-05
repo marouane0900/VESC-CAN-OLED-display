@@ -8,7 +8,8 @@ The program is built arround the STM32F103CBT6 that uses many of it's functions:
 - I2C EEPROM to record milleage and parameters thansk to the arduino-library-at24cxxx from stefangs: https://github.com/stefangs/arduino-library-at24cxxx
 - internal ADC used for precise hall reading with SimpleKalmanFilter from denyssene: https://github.com/denyssene/SimpleKalmanFilter
 
-Compiled with the lastest STM32duino library and the Arduino 2.0 IDE via a ST-link programmer.
+Compiled with the lastest Arduino_Core_STM32 from stm32duino and the Arduino 2.0 IDE via a ST-link programmer.
+https://github.com/stm32duino/Arduino_Core_STM32
 
 Actually, the program consist of a monolithic bloc with all the stuff needed, if you want to participate and make this thing evolve, don't hesitate!
 
