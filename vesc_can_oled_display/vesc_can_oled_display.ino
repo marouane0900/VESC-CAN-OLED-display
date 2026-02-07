@@ -1,3 +1,5 @@
+//V1.7.5
+
 #include <Arduino.h>
 #include "STM32_CAN.h"
 #include <U8g2lib.h>
